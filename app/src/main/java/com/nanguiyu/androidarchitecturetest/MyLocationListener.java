@@ -5,9 +5,6 @@ import android.arch.lifecycle.LifecycleObserver;
 import android.arch.lifecycle.OnLifecycleEvent;
 import android.util.Log;
 
-/**
- * Created by zf617 on 2017/12/24.
- */
 
 public class MyLocationListener implements LifecycleObserver {
 
