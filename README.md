@@ -1,2 +1,4 @@
 # AndroidArchitectureTest
-Android Architecture Components Test
+Android Architecture Components Test（1）
+
+Example for android Lifecycle.
